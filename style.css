@@ -1,0 +1,14 @@
+.pocket_item {
+	width: 280px;
+	height: 100px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	display: inline-table;
+	font-family: Helvetica;
+	font-size: 12px;
+	position: relative;
+}
+.pocket_details {
+	position: absolute;
+	bottom: 0;
+}
